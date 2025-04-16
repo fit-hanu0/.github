@@ -1,5 +1,7 @@
 ## Danh sách tài nguyên môn học
 
+Truy cập vào [trang chủ của cộng đồng](https://fit-hanu0.github.io/) để đọc thêm về hướng dẫn tự học cho các môn học ở trường.
+
 ### Học kì 1 - Năm 2
 1.  [61FIT2CAL](https://github.com/fit-hanu0/61fit2cal) - Toán Cao Cấp
 2.  [61FIT2DMA](https://github.com/fit-hanu0/61fit2dma) - Toán Rối Rạc
