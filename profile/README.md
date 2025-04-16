@@ -1,59 +1,59 @@
-# Kho lưu trữ các môn học thuộc FITHANU
+## Danh sách tài nguyên môn học
 
-### học kỳ 1 - năm học 2023 - 2024
-1.  [61fit2cal](https://github.com/fit-hanu0/61fit2cal) - Toán cao cấp
-2.  [61fit2dma](https://github.com/fit-hanu0/61fit2dma) - Toán rời rạc
-3.  [61fit2pco](https://github.com/fit-hanu0/61fit2pco) - Nguyên lý máy tính
-4.  [61fit2pop](https://github.com/fit-hanu0/61fit2pop) - nguyên lý hệ điều hành
-5.  [61fit2pr1](https://github.com/fit-hanu0/61fit2pr1) - lập trình 1
+### Học kì 1 - Năm 2
+1.  [61FIT2CAL](https://github.com/fit-hanu0/61fit2cal) - Toán Cao Cấp
+2.  [61FIT2DMA](https://github.com/fit-hanu0/61fit2dma) - Toán Rối Rạc
+3.  [61FIT2PCO](https://github.com/fit-hanu0/61fit2pco) - Nguyên Lý Máy Tính
+4.  [61FIT2POP](https://github.com/fit-hanu0/61fit2pop) - Nguyên Lý Hệ Điều Hành
+5.  [61FIT2PR1](https://github.com/fit-hanu0/61fit2pr1) - Lập Trình 1
 
-### học kỳ 2 - năm học 2023 - 2024
-1.  [61fit2cne](https://github.com/fit-hanu0/61fit2cne) - mạng máy tính
-2.  [61fit2dsa](https://github.com/fit-hanu0/61fit2dsa) - cấu trúc dữ liệu và giải thuật
-3.  [61fit2esy](https://github.com/fit-hanu0/61fit2esy) - hệ thống nhúng
-4.  [61fit2iis](https://github.com/fit-hanu0/61fit2iis) - nhập môn an toàn thông tin
-5.  [61fit2pr2](https://github.com/fit-hanu0/61fit2pr2) - lập trình 2
-6.  [61fit2prm](https://github.com/fit-hanu0/61fit2prm) - quản lý dự án
-7.  [61fit2pst](https://github.com/fit-hanu0/61fit2pst) - xác suất thống kê
+### Học kì 2 - Năm 2
+1.  [61FIT2CNE](https://github.com/fit-hanu0/61fit2cne) - Mạng Máy Tính
+2.  [61FIT2DSA](https://github.com/fit-hanu0/61fit2dsa) - Cấu Trúc Dữ Liệu Và Giải Thuật
+3.  [61FIT2ESY](https://github.com/fit-hanu0/61fit2esy) - Hệ Thống Nhúng
+4.  [61FIT2IIS](https://github.com/fit-hanu0/61fit2iis) - Nhập Môn An Toàn Thông Tin
+5.  [61FIT2PR2](https://github.com/fit-hanu0/61fit2pr2) - Lập Trình 2
+6.  [61FIT2PRM](https://github.com/fit-hanu0/61fit2prm) - Quản Lý Dự Án
+7.  [61FIT2PST](https://github.com/fit-hanu0/61fit2pst) - Xác Suất Thống Kê
 
-### học kỳ 1 - năm học 2024 - 2025
-1.  [61fit2ain](https://github.com/fit-hanu0/61fit2ain) - trí tuệ nhân tạo
-2.  [61fit3cgr](https://github.com/fit-hanu0/61fit3cgr) - đồ họa máy tính
-3.  [61fit3dbs](https://github.com/fit-hanu0/61fit3dbs) - cơ sở dữ liệu
-4.  [61fit3ebu](https://github.com/fit-hanu0/61fit3ebu) - kinh doanh điện tử
-5.  [61fit3isd](https://github.com/fit-hanu0/61fit3isd) - thiết kế hệ thống thông tin
-6.  [61fit3mul](https://github.com/fit-hanu0/61fit3mul) - đa phương tiện
-7.  [61fit3nad](https://github.com/fit-hanu0/61fit3nad) - quản trị mạng
-8.  [61fit3npr](https://github.com/fit-hanu0/61fit3npr) - lập trình mạng
-9.  [61fit3sad](https://github.com/fit-hanu0/61fit3sad) - phân tích thiết kế hệ thống
-10. [61fit3se1](https://github.com/fit-hanu0/61fit3se1) - công nghệ phần mềm 1
-11. [61fit3ss1](https://github.com/fit-hanu0/61fit3ss1) - chuyên đề 1
-12. [61fit3wpr](https://github.com/fit-hanu0/61fit3wpr) - lập trình web
+### Học kì 1 - Năm 3
+1.  [61FIT2AIN](https://github.com/fit-hanu0/61fit2ain) - Trí Tuệ Nhân Tạo
+2.  [61FIT3CGR](https://github.com/fit-hanu0/61fit3cgr) - Đồ Hóa Máy Tính
+3.  [61FIT3DBS](https://github.com/fit-hanu0/61fit3dbs) - Cơ Sở Dữ Liệu
+4.  [61FIT3EBU](https://github.com/fit-hanu0/61fit3ebu) - Kinh Doanh Điện Tử
+5.  [61FIT3ISD](https://github.com/fit-hanu0/61fit3isd) - Thiết Kế Hệ Thống Thông Tin
+6.  [61FIT3MUL](https://github.com/fit-hanu0/61fit3mul) - Đa Phương Tiện
+7.  [61FIT3NAD](https://github.com/fit-hanu0/61fit3nad) - Quản Trị Mạng
+8.  [61FIT3NPR](https://github.com/fit-hanu0/61fit3npr) - Lập Trình Mạng
+9.  [61FIT3SAD](https://github.com/fit-hanu0/61fit3sad) - Phân Tích Thiết Kế Hệ Thống
+10. [61FIT3SE1](https://github.com/fit-hanu0/61fit3se1) - Công Nghệ Phần Mềm 1
+11. [61FIT3SS1](https://github.com/fit-hanu0/61fit3ss1) - Chuyên Đề 1
+12. [61FIT3WPR](https://github.com/fit-hanu0/61fit3wpr) - Lập Trình Web
 
-### học kỳ 2 - năm học 2024 - 2025
-1.  [61fit3bdm](https://github.com/fit-hanu0/61fit3bdm) - khai phá dữ liệu lớn
-2.  [61fit3dba](https://github.com/fit-hanu0/61fit3dba) - hệ quản trị cơ sở dữ liệu
-3.  [61fit3hci](https://github.com/fit-hanu0/61fit3hci) - tương tác người máy
-4.  [61fit3iws](https://github.com/fit-hanu0/61fit3iws) - internet và dịch vụ web
-5.  [61fit3mpr](https://github.com/fit-hanu0/61fit3mpr) - lập trình cho thiết bị di động
-6.  [61fit3nse](https://github.com/fit-hanu0/61fit3nse) - an ninh mạng
-7.  [61fit3req](https://github.com/fit-hanu0/61fit3req) - phân tích yêu cầu phần mềm
-8.  [61fit3se2](https://github.com/fit-hanu0/61fit3se2) - công nghệ phần mềm 2
-9.  [61fit3sqa](https://github.com/fit-hanu0/61fit3sqa) - đảm bảo chất lượng phần mềm
-10. [61fit3ss2](https://github.com/fit-hanu0/61fit3ss2) - chuyên đề 2
-11. [61fit4npe](https://github.com/fit-hanu0/61fit4npe) - đánh giá hiệu năng mạng
-12. [61fit4spm](https://github.com/fit-hanu0/61fit4spm) - quản lý dự án phần mềm
+### Học kì 2 - Năm 3
+1.  [61FIT3BDM](https://github.com/fit-hanu0/61fit3bdm) - Khai Phá Dữ Liệu Lớn
+2.  [61FIT3DBA](https://github.com/fit-hanu0/61fit3dba) - Hệ Quản Trị Cơ Sở Dữ Liệu
+3.  [61FIT3HCI](https://github.com/fit-hanu0/61fit3hci) - Tương Tác Người Máy
+4.  [61FIT3IWS](https://github.com/fit-hanu0/61fit3iws) - Internet Và Dịch Vụ Web
+5.  [61FIT3MPR](https://github.com/fit-hanu0/61fit3mpr) - Lập Trình Cho Thiết Bị Di Động
+6.  [61FIT3NSE](https://github.com/fit-hanu0/61fit3nse) - An Ninh Mạng
+7.  [61FIT3REQ](https://github.com/fit-hanu0/61fit3req) - Phân Tích Yêu Cầu Phần Mềm
+8.  [61FIT3SE2](https://github.com/fit-hanu0/61fit3se2) - Công Nghệ Phần Mềm 2
+9.  [61FIT3SQA](https://github.com/fit-hanu0/61fit3sqa) - Đảm Bảo Chất Lượng Phần Mềm
+10. [61FIT3SS2](https://github.com/fit-hanu0/61fit3ss2) - Chuyên Đề 2
+11. [61FIT4NPE](https://github.com/fit-hanu0/61fit4npe) - Đánh Giá Hiệu Năng Mạng
+12. [61FIT4SPM](https://github.com/fit-hanu0/61fit4spm) - Quản Lý Dự Án Phần Mềm
 
-### học kỳ 1 - năm học 2025 - 2026
-1.  [61fit3dsy](https://github.com/fit-hanu0/61fit3dsy) - hệ thống phân tán
-2.  [61fit3jsd](https://github.com/fit-hanu0/61fit3jsd) - phát triển phần mềm java
-3.  [61fit4eis](https://github.com/fit-hanu0/61fit4eis) - hệ thống thông tin doanh nghiệp
-4.  [61fit4ipr](https://github.com/fit-hanu0/61fit4ipr) - xử lý ảnh và nhận dạng
-5.  [61fit4mla](https://github.com/fit-hanu0/61fit4mla) - học máy và ứng dụng
-6.  [61fit4wna](https://github.com/fit-hanu0/61fit4wna) - mạng không dây và ứng dụng
+### Học kì 1 - Năm 4
+1.  [61FIT3DSY](https://github.com/fit-hanu0/61fit3dsy) - Hệ Thống Phân Tán
+2.  [61FIT3JSD](https://github.com/fit-hanu0/61fit3jsd) - Phát Triển Phần Mềm Java
+3.  [61FIT4EIS](https://github.com/fit-hanu0/61fit4eis) - Hệ Thống Thông Tin Doanh Nghiệp
+4.  [61FIT4IPR](https://github.com/fit-hanu0/61fit4ipr) - Xử Lý Ảnh Và Nhận Dạng
+5.  [61FIT4MLA](https://github.com/fit-hanu0/61fit4mla) - Học Máy Và Ứng Dụng
+6.  [61FIT4WNA](https://github.com/fit-hanu0/61fit4wna) - Mạng Không Dây Và Ứng Dụng
 
-### học kỳ 2 - năm học 2025 - 2026
-1.  [61fit4ati](https://github.com/fit-hanu0/61fit4ati) - các chủ đề mới trong công nghệ thông tin
-2.  [61fit4grp](https://github.com/fit-hanu0/61fit4grp) - khóa luận tốt nghiệp
-3.  [61fit4int](https://github.com/fit-hanu0/61fit4int) - thực tập tốt nghiệp
-4.  [61fit4pit](https://github.com/fit-hanu0/61fit4pit) - đạo đức nghề nghiệp trong ngành công nghệ thông tin
+### Học kì 2 - Năm 4
+1.  [61FIT4ATI](https://github.com/fit-hanu0/61fit4ati) - Các Chủ Đề Mới Trong Công Nghệ Thông Tin
+2.  [61FIT4GRP](https://github.com/fit-hanu0/61fit4grp) - Khóa Luận Tốt Nghiệp
+3.  [61FIT4INT](https://github.com/fit-hanu0/61fit4int) - Thực Tập Tốt Nghiệp
+4.  [61FIT4PIT](https://github.com/fit-hanu0/61fit4pit) - Đạo Đức Nghề Nghiệp Trong Ngành Công Nghệ Thông Tin
