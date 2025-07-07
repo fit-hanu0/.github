@@ -1,3 +1,7 @@
+## Thông báo!!
+Hiện tại do không còn thời gian để dành cho Github Organization này nên mình mong muốn được nhượng lại cho bất kì ai muốn tiếp quản và cải thiện trang hướng dẫn và tổng hợp này. Không chỉ là sinh viên của khối FIT mà bất kì các sinh viên nào hiện tại đang theo học tại trường cũng có thể tham gia (Mình cũng sẽ mở thêm cho các môn của chuyên ngành khác).
+
+
 ## Danh sách tài nguyên môn học
 
 Truy cập vào [trang chủ của cộng đồng](https://fit-hanu0.github.io/) để đọc thêm về hướng dẫn tự học cho các môn học ở trường.
